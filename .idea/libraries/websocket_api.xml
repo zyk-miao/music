@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="websocket-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Environmental/apache-tomcat-9.0.35/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
